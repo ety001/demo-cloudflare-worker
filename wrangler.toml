@@ -1,0 +1,5 @@
+name = "api"
+type = "webpack"
+account_id = ""
+route = "auth.steem.fans/cfapi/*"
+zone_id = ""
